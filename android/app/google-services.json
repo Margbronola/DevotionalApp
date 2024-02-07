@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50097395403",
+    "project_id": "lls-littlelightkids",
+    "storage_bucket": "lls-littlelightkids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50097395403:android:086840f64fa23bbdf8ad4e",
+        "android_client_info": {
+          "package_name": "com.littlelightkids.devotionalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLFvj4HpdEgDn0u12SxhO6DQ9K8zGaH_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
